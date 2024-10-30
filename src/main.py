@@ -1,3 +1,11 @@
+"""
+七星彩历史数据获取脚本
+功能：获取七星彩开奖历史数据并保存到Excel文件
+作者：山猫
+版本：1.0.0
+最后更新：2024-10-30
+"""
+
 import os
 import sys
 from datetime import datetime
